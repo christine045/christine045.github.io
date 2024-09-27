@@ -2578,7 +2578,7 @@
 /* Footer */
 
 	#footer {
-		padding: 4em 0 8em 0;
+		padding: 4em 0 2em 0;
 	}
 
 		#footer a {
@@ -2590,11 +2590,11 @@
 				color: #37c0fb;
 				border-bottom-color: transparent;
 			}
-
+/*
 		#footer .container {
 			margin-bottom: 4em;
 		}
-
+*/
 		#footer .icons {
 			text-align: center;
 			margin: 0;
